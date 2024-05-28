@@ -3,6 +3,8 @@
 
 In today's digital world, where communication happens instantaneously and content spreads rapidly, ensuring the impact of your words is crucial. Introducing Impact Analyzer, a web application designed to empower you to assess the potential impact of your text before making it public.
 
+Link to Website: http://impactanalyzerr.azurewebsites.net/
+
 ## What Does It Do?
 
 Impact Analyzer delves deeper than surface-level analysis, providing insights into two key aspects of your writing:
