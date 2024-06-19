@@ -7,6 +7,7 @@ In today's digital world, where communication happens instantaneously and conten
 ![Alt text](Screenshots/Scroll.png)
 
 Link to Website: http://impactanalyzerr.azurewebsites.net/
+
 (For the first time, It might take 5-6 minutes for the Azure server to setup website)
 ## What Does It Do?
 
